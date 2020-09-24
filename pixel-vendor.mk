@@ -99,6 +99,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     MarkupGoogle \
-    SoundPickerPrebuilt \
     DevicePersonalizationPrebuiltPixel4 \
     SettingsIntelligenceGooglePrebuilt
