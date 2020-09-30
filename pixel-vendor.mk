@@ -22,4 +22,5 @@ PRODUCT_COPY_FILES += \
     vendor/google/pixel/proprietary/product/lib64/libsketchology_native.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libsketchology_native.so \
 
 PRODUCT_PACKAGES += \
-    MarkupGoogle
+    MarkupGoogle \
+    SoundPickerPrebuilt
